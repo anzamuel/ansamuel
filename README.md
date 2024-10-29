@@ -1,4 +1,4 @@
-### Hi there, it's Samuel 🕶️
+### Hi there, it's Samuel
 
 - 📝 Developing MarkTex, a Hugo-based static site generator that converts LaTeX to HTML, enabling *true* mathematical typesetting on the web (repo coming soon)
 - 🔭 Working on [Calibration in Finance with NN](https://www.overleaf.com/read/ftmnfwhphcnd#4cffdd) as an extension to my BSc Thesis
