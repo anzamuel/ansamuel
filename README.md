@@ -1,5 +1,6 @@
 ### Hi there, it's Samuel 🕶️
 
+- 📝 Developing MarkTex, a Hugo-based static site generator that converts LaTeX to HTML, enabling *true* mathematical typesetting on the web
 - 🔭 Working on [Calibration in Finance with NN](https://www.overleaf.com/read/ftmnfwhphcnd#4cffdd) as an extension to my BSc Thesis
 - 📚 Pursuing a Master in Statistics at ETH Zürich in Switzerland
 - 📫 Teaching Mathematics as an Assistant, more info: [n.ethz.ch/~ansamuel](https://n.ethz.ch/~ansamuel)
