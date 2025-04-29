@@ -1,9 +1,9 @@
 ### Hi there, it's Samuel
 
-- 📝 Developing MarkTex, a Hugo-based static site generator that converts LaTeX to HTML, enabling *true* mathematical typesetting on the web (repo coming soon)
+- 📝 Developing MarkTex, a Hugo-based static site generator that converts LaTeX to HTML, enabling *true* mathematical typesetting on the web, see [an example](https://ansamuel.com/notes/introprob/04/)
 - 🔭 Working on [Calibration in Finance with NN](https://www.overleaf.com/read/ftmnfwhphcnd#4cffdd) as an extension to my BSc Thesis
 - 📚 Pursuing a Master in Statistics at ETH Zürich in Switzerland
-- 📫 Teaching Mathematics as an Assistant, more info: [n.ethz.ch/~ansamuel](https://n.ethz.ch/~ansamuel)
+- 🏫 Teaching [Mathematics as an Assistant](https://n.ethz.ch/~ansamuel)
 
 <!--
 **ansamuel/ansamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
